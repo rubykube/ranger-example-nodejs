@@ -1,0 +1,12 @@
+{
+  "name": "ranger-example-nodejs",
+  "version": "1.0.0",
+  "description": "Example of using Peatio Ranger",
+  "main": "app.js",
+  "author": "rubykube.io",
+  "license": "MIT",
+  "dependencies": {
+    "args": "^5.0.0",
+    "ws": "^6.0.0"
+  }
+}
