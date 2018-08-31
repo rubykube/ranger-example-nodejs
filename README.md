@@ -41,3 +41,6 @@ The example supports few options:
 - `--host` - Allows to specify hostname of Ranger. By default will be used
     address of workbench's ranger service: `ws.ranger.wb.local`.
 - `--jwt` - Allows to specify a JWT token for authentication.
+
+# License
+MIT.
